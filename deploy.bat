@@ -1,1 +1,1 @@
-echo "Deploy file"
+echo "Deploy file from dev branch"
