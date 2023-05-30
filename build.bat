@@ -1,1 +1,1 @@
-echo "Build file"
+echo "Build file from dev branch"
